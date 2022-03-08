@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Aidar Alimbayev
-I am an electronics engineer with lot of experience in programming and teaching. 
+I am an electronics engineer with decent experience in programming and teaching. 
 Currently I am working as Machine learning Engineer at Nazarbayev University.
 
 My CV by link below.
