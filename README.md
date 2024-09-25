@@ -6,7 +6,7 @@ Currently I am working as Machine learning Engineer at Nazarbayev University.
 My CV by link below.
 https://docs.google.com/presentation/d/15TkkSFydNifFV0S3vJKUnPU1WgNSkLb15zASx3Dj1SY/edit?usp=sharing
 
-Significant projects you can evaluate from my portfolio. 
+My projects and projects where I have worked, you can evaluate from my portfolio. 
 https://docs.google.com/presentation/d/1WM1KplgpZmo_B1ug-skzES5y-bWCSjt4W96zdcLbqpk/edit?usp=sharing
 
 Other non-professional activities in my instagram.
