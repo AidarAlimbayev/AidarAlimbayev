@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## My name is Aidar Alimbayev
-I am an electronics engineer with decent experience in programming and teaching. 
-Currently I am working as Machine learning Engineer at Nazarbayev University.
+I am an PhD Student at MBZUAI. I am working on materials science project for prediction molecular properties based on the ML and DL methods. Previously I was an electronics engineer with decent experience in programming and teaching.
 
 My CV by link below.
 https://docs.google.com/presentation/d/15TkkSFydNifFV0S3vJKUnPU1WgNSkLb15zASx3Dj1SY/edit?usp=sharing
